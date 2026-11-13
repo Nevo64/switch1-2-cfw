@@ -4,8 +4,8 @@
 
 ## Compatibility & Requirements
 
-* **Supported Consoles:** Nintendo Switch / Switch 2
-* **Game Requirement:** None (Does not require any game)
+* **Supported Consoles:** Nintendo Switch Switch 2
+* **Does not require any game**
 * **Hardware/Accessories:** 
-  * An **amiibo**
+  * An **amiibo/nfc card**
   * A device capable of writing/emulating data to the amiibo (a modern Android phone works just fine)
