@@ -9,3 +9,7 @@
 * **Hardware/Accessories:** 
   * An **amiibo/nfc card**
   * A device capable of writing/emulating data to the amiibo (a modern Android phone works just fine)
+
+
+
+## This project will be kept private until further notice 
