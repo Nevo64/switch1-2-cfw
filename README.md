@@ -1,4 +1,4 @@
-# SWITCH-2-Bootloader-Access
+# switch1-2-cfw
 
 > **FIRMWARE SUPPORT:** 19.0.2 – 23.0.1 ONLY!
 
