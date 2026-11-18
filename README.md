@@ -1,6 +1,6 @@
 # switch1-2-cfw
 
-> **FIRMWARE SUPPORT:** 19.0.2 – 23.0.1(it will eventually support all firmware versions(ONLY!
+> **FIRMWARE SUPPORT:** 19.0.2 – 23.0.1(it will eventually support all firmware versions.) ONLY!
 
 ## Compatibility & Requirements
 
