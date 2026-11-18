@@ -15,3 +15,7 @@
 
 
 ## It is ready and will be released soon.
+_________________________________________________
+I got a semi-emuNAND working. If you'd like to help test it, join my Discord:
+
+https://discord.gg/yEVpCBT35
