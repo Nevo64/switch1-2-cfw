@@ -14,4 +14,4 @@
 ## THARE IS BOOTLOADER ACCESS
 
 
-## This project will be kept private until further notice 
+## It is ready and will be released soon.
